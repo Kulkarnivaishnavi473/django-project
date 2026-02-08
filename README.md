@@ -68,3 +68,10 @@ The view interacts with the Movie model (database)
 Data is sent to a template
 
 HTML page is rendered and shown to the user
+
+
+
+🌱 Why I Built This
+##
+
+I created this project to revise Django fundamentals and strengthen my understanding of backend development concepts like routing, views, models, templates, and database interaction.
