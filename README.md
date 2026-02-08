@@ -13,6 +13,7 @@ Delete existing movies
 
 While small, it covers the core workflow of Django — from handling requests to interacting with the database.
 
+
 🚀 What This Project Demonstrates
 ##
 ✔ URL Routing in Django
@@ -27,11 +28,13 @@ This project helped me clearly understand the flow:
 
 User Request → URL → View → Database → Template → Response
 
+
 🛠 Tech Stack
 ##
 Backend: Django (Python)
 Frontend: HTML (Django Templates)
 Database: SQLite (Default Django DB)
+
 
 📌 Features
 ##
@@ -46,6 +49,7 @@ Users can submit a form with movie title and year to add a new movie.
 ❌ Delete Movie
 
 Allows deleting a movie from the database.
+
 
 🔄 How It Works (Flow)
 ##
