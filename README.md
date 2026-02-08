@@ -1,6 +1,6 @@
 🎬 Django Movie Management System
-
 ##
+
 This is a beginner-friendly Django project built to revise and strengthen backend development fundamentals.
 
 The project is a simple Movie Management System where users can:
@@ -16,6 +16,7 @@ While small, it covers the core workflow of Django — from handling requests to
 
 🚀 What This Project Demonstrates
 ##
+
 ✔ URL Routing in Django
 ✔ Creating and using Django Models
 ✔ Connecting Django with a database
@@ -31,6 +32,7 @@ User Request → URL → View → Database → Template → Response
 
 🛠 Tech Stack
 ##
+
 Backend: Django (Python)
 Frontend: HTML (Django Templates)
 Database: SQLite (Default Django DB)
@@ -38,6 +40,7 @@ Database: SQLite (Default Django DB)
 
 📌 Features
 ##
+
 🎞 View Movies
 
 Displays all movies stored in the database.
@@ -53,6 +56,7 @@ Allows deleting a movie from the database.
 
 🔄 How It Works (Flow)
 ##
+
 User visits a URL
 
 Django matches it with a URL pattern
